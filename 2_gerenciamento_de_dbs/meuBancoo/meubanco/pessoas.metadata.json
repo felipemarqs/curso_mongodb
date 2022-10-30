@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"meubanco.pessoas"}],"uuid":"f0c00d2cf8aa4946a4b8f582f373f604","collectionName":"pessoas","type":"collection"}
